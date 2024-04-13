@@ -1,0 +1,45 @@
+/* Styling the body tag */
+body {
+    font-family: Arial, sans-serif; /* Modify the font family */
+    font-size: 16px; /* Modify the font size */
+  }
+  
+  /* Styling the header tag */
+  header {
+    background-color: #f0f0f0; /* Modify the background color */
+  }
+  
+  /* Styling the nav tag */
+  nav {
+    background-color: #ddd; /* Modify the background color */
+  }
+  
+  /* Styling the main tag */
+  main {
+    background-color: #fff; /* Modify the background color */
+    font-size: 18px; /* Modify the font size */
+  }
+  
+  /* Styling the footer tag */
+  footer {
+    background-color: #f0f0f0; /* Modify the background color */
+  }
+  
+  /* Styling the li tag */
+  li {
+    display: inline-block; /* Modify the display property */
+    width: 100px; /* Modify the width property */
+  }
+  
+  /* Styling the h1 tag */
+  h1 {
+    text-align: center; /* Modify the text alignment */
+    font-family: 'Times New Roman', serif; /* Modify the font family */
+    color: #333; /* Modify the color */
+  }
+  
+  /* Styling the p tag */
+  p {
+    line-height: 1.5; /* Modify the line height */
+  }
+  
